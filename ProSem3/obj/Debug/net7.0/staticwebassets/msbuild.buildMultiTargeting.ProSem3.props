@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProSem3.props" />
+</Project>
