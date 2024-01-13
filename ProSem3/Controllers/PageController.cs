@@ -26,5 +26,9 @@ namespace ProSem3.Controllers
         {
             return View();
         }
+        public IActionResult Blog()
+        {
+            return View();
+        }
     }
 }
